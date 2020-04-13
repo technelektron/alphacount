@@ -1,0 +1,13 @@
+# compiler output
+*.exe
+*.ilk
+*.obj
+*.pdb
+
+# programm output
+*.csv
+
+# example file
+Eschilo.txt
+
+
